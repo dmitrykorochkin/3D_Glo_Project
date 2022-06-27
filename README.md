@@ -1,1 +1,1 @@
-# Начальная сборка Webpack 
+# 3D_Glo_Project 
