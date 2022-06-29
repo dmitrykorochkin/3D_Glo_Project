@@ -1,1 +1,1 @@
-# 3D_Glo_Project
+# Сборка Webpack
